@@ -1,0 +1,48 @@
+DEVOPS CULTURE IN AN ORGANIZATION
+
+Due to disruption and the ever-evolving nature of the digital and business landscape, organizations need to future proof their processes and value to meet business goals, customer needs and good user and customer experience, thus ensuring business continuity. To meet these goals, organizations need to deliver software solutions swiftly, reliably, continuously and efficiently. An ideal solution is for organizations to embrace the devops culture.
+
+
+WHAT IS DEVOPS ?
+DevOps is an approach that fosters collaboration between development and operations teams, streamlining the entire software delivery lifecycle. By promoting a culture of collaboration, automation, and continuous feedback, DevOps enables organizations to deliver software products more efficiently, continuously and reliably.
+Also, it is an approach that applies agile and lean thinking principles to all stakeholders in an organization who develop, operate or benefit from the organization’s software system including business owners, development team, operations teams, quality assurance, customers, suppliers, partners etc.
+Devops is a culture that encourages trust, transparency, communication, coordination and discipline.
+DevOps’ tools, practices, and processes help tackle the complexities and challenges posed by the software development process, allowing solutions to be delivered and updated quickly and reliably.
+
+
+THE DEVOPS  PROCESS
+The devops process includes the following components:
+Continuous Integration (CI): Developers integrate their code changes into a shared repository frequently, ensuring early detection of integration issues. Version control systems like Git and Subversion support this process.
+
+Continuous Delivery (CD): Continuous delivery ensures that code changes are always in a state that can be released immediately. This state allows organizations to deploy software anytime with minimal manual intervention. Tools like Jenkins and Bamboo facilitate the automation of build, test, and deployment processes.
+
+Continuous Deployment (CDep): Continuous deployment takes automation further, enabling organizations to automatically deploy software changes into production environments after passing the necessary tests.
+
+Continuous Monitoring (CM): Continuous monitoring provides real-time insights into application and infrastructure performance, allowing organizations to detect issues promptly and take proactive measures. Tools like Prometheus and ELK Stack are commonly used for monitoring in DevOps.
+
+
+CHARACTERISTICS OF DEVOPS
+
+Devops encourages automation of deployment to all environments. It leverages infrastructure as a code to ensure builds are repeatable.
+The network design is defined by the application architecture.
+Devops discourage organizational silos and hand-offs. It encourages shared ownership and high collaboration.
+Devops encourages ephemeral infrastructure creation for each new deployment.
+Risk Management: Risk is managed through progressive activation. It seeks to break big projects down to deliver a continual series of small changes that are more manageable thereby reducing risks associated with software development.
+It employs lean and agile principles.
+It requires application design that does not require entire systems to be redeployed due to an update.
+It requires automation that accelerates and improves the consistency of application delivery.
+
+
+BENEFITS OF DEVOPS
+
+It helps increase the speed of delivering applications and services.
+It accelerates feedback cycles.
+It reduces overhead, duplication and rework.
+It helps to reduce the complexities and challenges posed by the cloud.
+It enables businesses to move fast in the market and seize market opportunities.
+It reduces time to include customer feedback in an organization’s software product.
+It enables a continuous delivery schedule of new features and bug fixes in rapid cycles.
+It encourages development and operations teams to work together for a common goal instead of working in silos.
+It increases Mean-Time-To-Recover (MTTR) when failure occurs.
+
+
